@@ -1,2 +1,2 @@
 # Power-BI
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](images/My_Dashboard.png)
