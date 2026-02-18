@@ -1,7 +1,7 @@
 # Power-BI
 
-# Mobile Selles
+# Mobile Sales
 ![Dashboard Preview](My_Dashboard.png)
 
-# Virat Kohli 
+# Virat Kohli Analytics
 ![Dashboard Preview](Virat_Kohli_Analytics.png)
