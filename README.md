@@ -5,3 +5,5 @@
 
 # Virat Kohli Analytics
 ![Dashboard Preview](Virat_Kohli_Analytics.png)
+# Performance Over Time
+![Dashboard Preview](Performance Over Time.png)
